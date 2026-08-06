@@ -1,0 +1,19 @@
+{
+    "folders": [
+        {
+            "path": "."
+        }
+    ],
+    "settings": {
+        "window.title": "ERP DevCon - MAIN",
+        "workbench.colorCustomizations": {
+            "titleBar.activeBackground": "#B71C1C",
+            "titleBar.activeForeground": "#FFFFFF",
+            "titleBar.inactiveBackground": "#7F0000",
+            "titleBar.inactiveForeground": "#FFFFFFCC"
+        }
+    }
+"workbench.colorCustomizations": {
+    "editor.background": "#400000"
+}
+}
